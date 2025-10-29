@@ -1,48 +1,48 @@
-+ abs
++1 abs
    +1 crunch
 
-+ triceps
++2 triceps
    +1 supinated push down
    -2 overhead press (descending)
    -3 overhead press (ascending)
    -4 shoulder extension (90-0)
 
-+ back
++3 back
    +1 sagittal row
    +2 frontal plane pulldown
    +3 kelso row
 
-+ quads
++4 quads
    +1 leg extension
 
-+ hamstrings
++5 hamstrings
    +1 seated curl
    -2 lying curl
    -3 45 degree curl
 
-+ chest
++6 chest
    +1 machine chest press
    -2 upper
    -3 lower
 
-+ biceps
++7 biceps
    +1 recline curl
    -2 30 curl
    -3 supinations
 
-+ shoulders
++8 shoulders
    +1 lateral raise
    -2 rear delt
    -3 front delt
 
-- forearms
+-9 forearms
    +1 pronated curl
    +2 supinated curl
 
-- calves
+-10 calves
    +1 toes in
    +2 toes out
    +3 seated
 
-- glutes
+-11 glutes
    +1 thrust
