@@ -7,6 +7,17 @@ A simple workout tracking app for the **TI-84 Plus CE Python calculator**.
 - View all saved workouts
 - Clear workout history
 - Data persists using calculator lists
+## Advanced Features
+
+### Calorie Tracking
+Calories burned per workout are stored in `L5`.
+
+### Progressive Overload
+Estimated 1RM is calculated using the Epley formula and stored in `L6`.
+The app compares recent sessions to detect strength increases.
+
+### Exporting Data
+Use TI Connect CE to export lists `L1`–`L6` as CSV files.
 
 ## Files
 - `workout.py` — main program
