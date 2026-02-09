@@ -7,7 +7,6 @@ A simple workout tracking app for the **TI-84 Plus CE Python calculator**.
 - View all saved workouts
 - Clear workout history
 - Data persists using calculator lists
-## Advanced Features
 
 ### Calorie Tracking
 Calories burned per workout are stored in `L5`.
